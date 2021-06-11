@@ -3,6 +3,7 @@ body{
     text-align: center;
     background-color: #d9d9d9;
 }
+
 .page{
 
     max-width: 1280px;
@@ -12,34 +13,37 @@ body{
 .black{
   position: absolute;
   background: #303030;
-width: 820px;
+width: 54%;
 height: 900px;
 margin-left: 23%;
   
 }
 .imgSapka{
     position: relative;
+    width: 62.5% ;
+    margin-left: 18.7%;
 }
+
 .top{
-    margin-top: 10px;
+    margin-top: 1%;
 }
 .cr{
     position: relative;
-    width: 197.5px;
-    height: 207.5px;
+    width: 10%;
+    height: 16%;
   
 }
 .cart{
     position: relative;
     margin-left: 18.7%;
     display: grid;
-    grid-template-columns: 405px 405px ;
+    grid-template-columns: 39% 39% ;
      
 }
 .cart1{
-    border-radius: 5px;
-    width: 395px;
-    height: 415px;
+    border-radius: 1%;
+    width: 97.3%;
+    height: 80%;
     background: white;
 }
 .text{
@@ -79,6 +83,8 @@ margin-left: 23%;
 }
 img{
     border-radius: 5px;
+    width: 100%;
+    height: auto;
 }
 a{
     text-decoration: none;
