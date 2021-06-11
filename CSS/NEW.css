@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+}
+img{
+  width: 100%;
+    height: auto;
+    
+}
+.i{
+  width: 100vw;
+}
+
+.imge{
+    height: 100%;
+   position:relative;
+}
+.blok{
+  position: absolute;
+  margin-left: 70%;
+  margin-top: 20%;
+  top:0;
+  left:0;
+  width: 30%;
+  height: 24%;
+  background: black;
+  opacity: .7;
+}
+.text{
+
+  position: absolute;
+  font-size: 99%;
+  color:#f9ddc7;
+  top:0;
+  left:0;
+  margin-left: 70%;
+  margin-top: 19%;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align:center
+}
+.RS{
+  width: 60%;
+  height: 10%;
+    margin-top: 20px;
+  margin-left: 20%;
+  display:grid;
+  grid-template-columns: 30% 70% ;
+}
+.Google{
+  width: 80%;
+  height: 10%;
+    margin-top: 20px;
+  margin-left: 10%;
+  display:grid;
+  grid-template-columns: 50% 50% ;
+}
+.WINDA{
+  width: 60%;
+  height: 10%;
+  margin-top: 50px;
+  margin-left: 25%;
+  display:grid;
+  grid-template-columns:40% 60% ;
+}
+.Air{
+  margin-top: 50px;
+  margin-left: 10%;
+  display:grid;
+  grid-template-columns:50% 50% ;
+}
+
+.tx{
+
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 140px;
+
+  text-align:center;
+  width: 50%;
+
+}
+.H{
+    color:#f5c098;
+}
+
+a{
+  font-size: pxs;
+  color:#f5c098;
+}

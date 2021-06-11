@@ -1,0 +1,2 @@
+build: parcel build ./src/index.html --public-url ./
+deploy: parcel build ./src/index.html --public-url ./ && gh-pages -d dis

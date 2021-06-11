@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #d9d9d9;
+}
+.page{
+
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.black{
+  position: absolute;
+  background: #303030;
+width: 820px;
+height: 900px;
+margin-left: 23%;
+  
+}
+.imgSapka{
+    position: relative;
+}
+.top{
+    margin-top: 10px;
+}
+.cr{
+    position: relative;
+    width: 197.5px;
+    height: 207.5px;
+  
+}
+.cart{
+    position: relative;
+    margin-left: 18.7%;
+    display: grid;
+    grid-template-columns: 405px 405px ;
+     
+}
+.cart1{
+    border-radius: 5px;
+    width: 395px;
+    height: 415px;
+    background: white;
+}
+.text{
+
+    border-radius: 5px;
+    position: absolute;
+    width: 395px;
+    height: 30%;
+    background:#505050 ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1{
+    border-radius: 5px;
+    position: relative;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    
+}
+.blok1{
+    border-radius: 5px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 25%;
+    width: 200;
+    height: 20px;
+    background: #ec5c16;
+}
+.img1{
+    border-radius: 5px;
+    width: 389px;
+    height: 291px;
+}
+img{
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
